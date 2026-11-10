@@ -1,0 +1,8 @@
+node_modules/
+.env
+**/.env
+dist/
+.DS_Store
+*.log
+explication-orale.pdf
+explication-orale.html
